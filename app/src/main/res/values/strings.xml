@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Timer</string>
+    <string name="stop">Стоп</string>
+    <string name="start">Старт</string>
+    <string name="Restart">Перезапустить</string>
+    <string name="timer_worked">Таймер завершил работу</string>
+</resources>
